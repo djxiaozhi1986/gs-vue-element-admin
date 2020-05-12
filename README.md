@@ -1,5 +1,8 @@
 # gs-admin-frontend
 
+## 图片预览
+![avatar](https://fastdfs.netconcepts.cn/group1/M00/00/01/CgknIV66niGAfhiBAAsNmT5SlTI841.png)
+
 ## Project setup
 ```
 npm install
